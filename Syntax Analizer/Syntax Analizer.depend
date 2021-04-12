@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1618208406 source:d:\programming\codeblocks\syntax analizer\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
